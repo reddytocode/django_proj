@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7ef950c-2613-48e9-98ce-ac96dd1642fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platzigram/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/platzigram/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platzigram/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/platzigram/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569256454603</updated>
-      <workItem from="1569256455663" duration="514000" />
+      <workItem from="1569256455663" duration="2137000" />
     </task>
     <servers />
   </component>

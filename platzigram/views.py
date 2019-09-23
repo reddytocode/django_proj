@@ -8,4 +8,7 @@ def hello(request):
     return HttpResponse('Hello, it\'s: {}'.format(now))
 
 def hi(request):
+    #debug 'c'+Enter continue
+    #import pdb; pdb.set_trace()
+    #numbers = request.GET[]
     return HttpResponse('Hi')
